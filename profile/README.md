@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Gustavo Akira, founder of vibe coding Apptime AI and vibe networking Forus App.
+I'm Gustavo Akira, founder of Apptime AI and Forus Flow.
 
 Graduated in Mechatronics Engineering, Robotics and Control and Automation.
 
