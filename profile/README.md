@@ -13,5 +13,5 @@ We are looking for partners and partnerships, join us!
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; align-items: center; margin: 1rem;">
   <a href="https://apptime.ai" target="_blank"><img height="120em" src="https://apptime.ai/og-image.webp" target="_blank"></a>
-  <a href="https://forus.app" target="_blank"><img height="120em" src="https://forus.app/og-image.webp" target="_blank"></a>
+  <a href="https://forusflow.com" target="_blank"><img height="120em" src="https://forusflow.com/og-image.webp" target="_blank"></a>
 </div>
